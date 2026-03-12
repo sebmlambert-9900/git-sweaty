@@ -19160,5 +19160,18 @@
     "start_date_local": "2026-03-11T05:58:52Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-11",
+    "distance": 8302.7,
+    "elevation_gain": 42.8,
+    "id": "17689066659",
+    "moving_time": 2526.0,
+    "name": "8km - Easy Cathedral miles",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-11T17:52:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
