@@ -13274,6 +13274,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17689066659",
       "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 10,
+      "name": "Blakely APEX 4.0",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "url": "https://www.strava.com/activities/17719786169",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25797,6 +25806,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2413.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17719786169"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4490.0
         }
       },
       "Hike": {
@@ -26287,7 +26305,7 @@
       }
     }
   },
-  "generated_at": "2026-03-13T17:05:24.833629+00:00",
+  "generated_at": "2026-03-14T15:53:29.190030+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",

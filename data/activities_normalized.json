@@ -19173,5 +19173,18 @@
     "start_date_local": "2026-03-11T17:52:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17719786169",
+    "moving_time": 4490.0,
+    "name": "Blakely APEX 4.0",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-03-14T10:45:06Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
