@@ -13283,6 +13283,15 @@
       "type": "HighIntensityIntervalTraining",
       "url": "https://www.strava.com/activities/17719786169",
       "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 10,
+      "name": "Blakely APEX 4.0 - Round 2",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "url": "https://www.strava.com/activities/17731396558",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25815,6 +25824,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4490.0
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "17731396558"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4653.0
         }
       },
       "Hike": {
@@ -26305,7 +26323,7 @@
       }
     }
   },
-  "generated_at": "2026-03-14T15:53:29.190030+00:00",
+  "generated_at": "2026-03-15T15:54:44.447848+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
