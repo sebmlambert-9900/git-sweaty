@@ -19199,5 +19199,18 @@
     "start_date_local": "2026-03-15T10:45:06Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17738999140",
+    "moving_time": 2472.0,
+    "name": "Upper @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-16T06:08:33Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
