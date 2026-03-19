@@ -13301,6 +13301,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17738999140",
       "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 18,
+      "name": "LST to Victoria Park - Out n Back",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17770666922",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26162,6 +26171,15 @@
           "distance": 8302.7,
           "elevation_gain": 42.8,
           "moving_time": 2526.0
+        },
+        "2026-03-18": {
+          "activity_ids": [
+            "17770666922"
+          ],
+          "count": 1,
+          "distance": 9234.9,
+          "elevation_gain": 30.6,
+          "moving_time": 2783.0
         }
       },
       "WeightTraining": {
@@ -26341,7 +26359,7 @@
       }
     }
   },
-  "generated_at": "2026-03-18T18:11:37.030987+00:00",
+  "generated_at": "2026-03-19T18:00:47.790124+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",

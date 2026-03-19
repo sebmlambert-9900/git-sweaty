@@ -19212,5 +19212,18 @@
     "start_date_local": "2026-03-16T06:08:33Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 9234.9,
+    "elevation_gain": 30.6,
+    "id": "17770666922",
+    "moving_time": 2783.0,
+    "name": "LST to Victoria Park - Out n Back",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-18T18:21:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
