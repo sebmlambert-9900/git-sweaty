@@ -19225,5 +19225,31 @@
     "start_date_local": "2026-03-18T18:21:22Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17788691281",
+    "moving_time": 2478.0,
+    "name": "Friday Fitness @ PERFIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-03-20T05:59:32Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 5615.8,
+    "elevation_gain": 33.2,
+    "id": "17789713289",
+    "moving_time": 1733.0,
+    "name": "Riverside 5km",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-20T10:55:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
