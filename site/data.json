@@ -13328,6 +13328,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17789713289",
       "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 9,
+      "name": "Norwich Parkrun",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17800545374",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26216,6 +26225,15 @@
           "distance": 5615.8,
           "elevation_gain": 33.2,
           "moving_time": 1733.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17800545374"
+          ],
+          "count": 1,
+          "distance": 5007.4,
+          "elevation_gain": 19.2,
+          "moving_time": 1194.0
         }
       },
       "WeightTraining": {
@@ -26395,7 +26413,7 @@
       }
     }
   },
-  "generated_at": "2026-03-20T17:11:42.772530+00:00",
+  "generated_at": "2026-03-21T15:49:44.790198+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
