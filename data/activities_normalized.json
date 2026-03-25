@@ -19264,5 +19264,18 @@
     "start_date_local": "2026-03-21T09:03:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17849887438",
+    "moving_time": 3176.0,
+    "name": "Full Body @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-25T05:59:46Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
