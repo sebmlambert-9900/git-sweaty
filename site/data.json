@@ -13346,6 +13346,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17849887438",
       "year": 2026
+    },
+    {
+      "date": "2026-03-25",
+      "hour": 19,
+      "name": "8km - Easy miles",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17857885885",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26243,6 +26252,15 @@
           "distance": 5007.4,
           "elevation_gain": 19.2,
           "moving_time": 1194.0
+        },
+        "2026-03-25": {
+          "activity_ids": [
+            "17857885885"
+          ],
+          "count": 1,
+          "distance": 8181.5,
+          "elevation_gain": 66.2,
+          "moving_time": 3056.0
         }
       },
       "WeightTraining": {
@@ -26431,7 +26449,7 @@
       }
     }
   },
-  "generated_at": "2026-03-25T18:10:57.916896+00:00",
+  "generated_at": "2026-03-26T18:11:18.347797+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
