@@ -19290,5 +19290,18 @@
     "start_date_local": "2026-03-25T19:19:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 12578.3,
+    "elevation_gain": 111.8,
+    "id": "17886477746",
+    "moving_time": 3842.0,
+    "name": "12km - Sat morning run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T09:45:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
