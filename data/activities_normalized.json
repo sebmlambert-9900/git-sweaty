@@ -19303,5 +19303,18 @@
     "start_date_local": "2026-03-28T09:45:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17896719830",
+    "moving_time": 3551.0,
+    "name": "Sunday Service @ PERFIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-03-29T07:32:44Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
