@@ -19329,5 +19329,18 @@
     "start_date_local": "2026-03-30T05:59:37Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 8145.7,
+    "elevation_gain": 44.4,
+    "id": "17916134801",
+    "moving_time": 2711.0,
+    "name": "8km - Easy Monday miles",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-30T19:00:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
