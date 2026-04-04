@@ -19368,5 +19368,18 @@
     "start_date_local": "2026-04-01T19:13:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 5079.2,
+    "elevation_gain": 2.8,
+    "id": "17971687444",
+    "moving_time": 1658.0,
+    "name": "Edinburgh Parkrun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-04T09:32:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

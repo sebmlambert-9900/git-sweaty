@@ -13409,6 +13409,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17942216167",
       "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 9,
+      "name": "Edinburgh Parkrun",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17971687444",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26351,6 +26360,15 @@
           "distance": 6861.6,
           "elevation_gain": 31.8,
           "moving_time": 1668.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17971687444"
+          ],
+          "count": 1,
+          "distance": 5079.2,
+          "elevation_gain": 2.8,
+          "moving_time": 1658.0
         }
       },
       "WeightTraining": {
@@ -26557,7 +26575,7 @@
       }
     }
   },
-  "generated_at": "2026-04-03T17:00:55.447633+00:00",
+  "generated_at": "2026-04-04T15:58:55.998350+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
