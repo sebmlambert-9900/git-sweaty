@@ -19381,5 +19381,44 @@
     "start_date_local": "2026-04-04T09:32:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17995336200",
+    "moving_time": 3516.0,
+    "name": "Upper @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-06T06:57:37Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-06",
+    "distance": 2680.9,
+    "elevation_gain": 23.8,
+    "id": "17999515224",
+    "moving_time": 780.0,
+    "name": "Run home",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-06T13:38:59Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-06",
+    "distance": 14042.3,
+    "elevation_gain": 111.6,
+    "id": "17999515844",
+    "moving_time": 4052.0,
+    "name": "Easter Monday Tempos",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-06T11:21:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
