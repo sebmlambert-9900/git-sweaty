@@ -19446,5 +19446,18 @@
     "start_date_local": "2026-04-07T12:28:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 5982.2,
+    "elevation_gain": 3.4,
+    "id": "18032314020",
+    "moving_time": 1509.0,
+    "name": "Intervals @ PERFIT",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-08T19:22:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
