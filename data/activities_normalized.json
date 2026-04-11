@@ -19472,5 +19472,18 @@
     "start_date_local": "2026-04-10T06:10:40Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 10695.8,
+    "elevation_gain": 75.4,
+    "id": "18063070377",
+    "moving_time": 3062.0,
+    "name": "Derby day miles",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-11T09:20:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
