@@ -19485,5 +19485,18 @@
     "start_date_local": "2026-04-11T09:20:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18076838894",
+    "moving_time": 5769.0,
+    "name": "PERFIT Games Day \ud83c\udf82\ud83e\udd48",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-04-12T07:56:14Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]

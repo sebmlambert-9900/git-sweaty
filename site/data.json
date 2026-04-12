@@ -13490,6 +13490,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18063070377",
       "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 7,
+      "name": "PERFIT Games Day \ud83c\udf82\ud83e\udd48",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "url": "https://www.strava.com/activities/18076838894",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26058,6 +26067,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2225.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18076838894"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5769.0
         }
       },
       "Hike": {
@@ -26711,7 +26729,7 @@
       }
     }
   },
-  "generated_at": "2026-04-11T15:22:34.905051+00:00",
+  "generated_at": "2026-04-12T15:25:50.346817+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
