@@ -19511,5 +19511,31 @@
     "start_date_local": "2026-04-13T06:01:32Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 8213.8,
+    "elevation_gain": 43.2,
+    "id": "18094778857",
+    "moving_time": 2461.0,
+    "name": "Monday Night Tempos",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-13T18:37:43Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18100523825",
+    "moving_time": 3109.0,
+    "name": "Full Body @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-14T06:00:31Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
