@@ -13526,6 +13526,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18100523825",
       "year": 2026
+    },
+    {
+      "date": "2026-04-15",
+      "hour": 19,
+      "name": "Track Intervals @ PERFIT",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18123360775",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26541,6 +26550,15 @@
           "distance": 8213.8,
           "elevation_gain": 43.2,
           "moving_time": 2461.0
+        },
+        "2026-04-15": {
+          "activity_ids": [
+            "18123360775"
+          ],
+          "count": 1,
+          "distance": 7494.8,
+          "elevation_gain": 10.0,
+          "moving_time": 2042.0
         }
       },
       "WeightTraining": {
@@ -26783,7 +26801,7 @@
       }
     }
   },
-  "generated_at": "2026-04-15T15:57:28.199914+00:00",
+  "generated_at": "2026-04-16T16:14:55.626292+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",

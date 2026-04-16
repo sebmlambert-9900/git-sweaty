@@ -19537,5 +19537,18 @@
     "start_date_local": "2026-04-14T06:00:31Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 7494.8,
+    "elevation_gain": 10.0,
+    "id": "18123360775",
+    "moving_time": 2042.0,
+    "name": "Track Intervals @ PERFIT",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-15T19:26:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
