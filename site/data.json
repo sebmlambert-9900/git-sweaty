@@ -13535,6 +13535,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18123360775",
       "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 5,
+      "name": "Friday Fitness @ PERFIT",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "url": "https://www.strava.com/activities/18140909349",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26112,6 +26121,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5769.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "18140909349"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2605.0
         }
       },
       "Hike": {
@@ -26801,7 +26819,7 @@
       }
     }
   },
-  "generated_at": "2026-04-16T16:14:55.626292+00:00",
+  "generated_at": "2026-04-17T15:46:31.422904+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
