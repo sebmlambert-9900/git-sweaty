@@ -13544,6 +13544,15 @@
       "type": "HighIntensityIntervalTraining",
       "url": "https://www.strava.com/activities/18140909349",
       "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 10,
+      "name": "Stretch the legs - 5km",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18155222641",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26577,6 +26586,15 @@
           "distance": 7494.8,
           "elevation_gain": 10.0,
           "moving_time": 2042.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18155222641"
+          ],
+          "count": 1,
+          "distance": 5563.5,
+          "elevation_gain": 37.4,
+          "moving_time": 1726.0
         }
       },
       "WeightTraining": {
@@ -26819,7 +26837,7 @@
       }
     }
   },
-  "generated_at": "2026-04-17T15:46:31.422904+00:00",
+  "generated_at": "2026-04-18T15:27:27.134363+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
