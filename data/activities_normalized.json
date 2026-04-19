@@ -19576,5 +19576,18 @@
     "start_date_local": "2026-04-18T10:04:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 21384.2,
+    "elevation_gain": 234.4,
+    "id": "18171237622",
+    "moving_time": 7838.0,
+    "name": "Holkham Half",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-19T09:00:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
