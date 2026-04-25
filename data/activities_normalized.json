@@ -19654,5 +19654,18 @@
     "start_date_local": "2026-04-24T06:03:46Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 10242.2,
+    "elevation_gain": 57.6,
+    "id": "18249319238",
+    "moving_time": 2764.0,
+    "name": "Padel > Coffee > 10km \ud83d\udc4c",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-25T10:15:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
