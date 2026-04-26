@@ -13616,6 +13616,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18249319238",
       "year": 2026
+    },
+    {
+      "date": "2026-04-26",
+      "hour": 10,
+      "name": "Caister Fort Loop",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18266062095",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26705,6 +26714,17 @@
           "moving_time": 2764.0
         }
       },
+      "Walk": {
+        "2026-04-26": {
+          "activity_ids": [
+            "18266062095"
+          ],
+          "count": 1,
+          "distance": 13269.4,
+          "elevation_gain": 55.6,
+          "moving_time": 9146.0
+        }
+      },
       "WeightTraining": {
         "2026-01-05": {
           "activity_ids": [
@@ -26963,7 +26983,7 @@
       }
     }
   },
-  "generated_at": "2026-04-25T15:30:33.003787+00:00",
+  "generated_at": "2026-04-26T15:32:35.747305+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
