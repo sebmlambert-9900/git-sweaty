@@ -13625,6 +13625,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18266062095",
       "year": 2026
+    },
+    {
+      "date": "2026-04-27",
+      "hour": 6,
+      "name": "Upper @ PERFIT",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18274571682",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26968,6 +26977,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3155.0
+        },
+        "2026-04-27": {
+          "activity_ids": [
+            "18274571682"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2975.0
         }
       },
       "Yoga": {
@@ -26983,7 +27001,7 @@
       }
     }
   },
-  "generated_at": "2026-04-26T15:32:35.747305+00:00",
+  "generated_at": "2026-04-27T16:17:32.483188+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
