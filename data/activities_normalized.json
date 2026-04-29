@@ -19719,5 +19719,18 @@
     "start_date_local": "2026-04-28T05:57:29Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 8695.7,
+    "elevation_gain": 55.0,
+    "id": "18295912163",
+    "moving_time": 2831.0,
+    "name": "Vic\u2019s Tuesday Tempos",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-28T18:22:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
