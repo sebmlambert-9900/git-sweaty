@@ -13679,6 +13679,24 @@
       "type": "HighIntensityIntervalTraining",
       "url": "https://www.strava.com/activities/18327482868",
       "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 19,
+      "name": "Friday Frowdown @ PERFIT",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "url": "https://www.strava.com/activities/18337242420",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 11,
+      "name": "60 mins easy \u2600\ufe0f",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18344590553",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26277,12 +26295,13 @@
         },
         "2026-05-01": {
           "activity_ids": [
-            "18327482868"
+            "18327482868",
+            "18337242420"
           ],
-          "count": 1,
+          "count": 2,
           "distance": 0.0,
           "elevation_gain": 0.0,
-          "moving_time": 2487.0
+          "moving_time": 5746.0
         }
       },
       "Hike": {
@@ -26802,6 +26821,15 @@
           "distance": 8685.5,
           "elevation_gain": 6.2,
           "moving_time": 2169.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18344590553"
+          ],
+          "count": 1,
+          "distance": 10637.8,
+          "elevation_gain": 84.4,
+          "moving_time": 3652.0
         }
       },
       "Walk": {
@@ -27091,7 +27119,7 @@
       }
     }
   },
-  "generated_at": "2026-05-01T15:43:37.392784+00:00",
+  "generated_at": "2026-05-02T15:36:07.892842+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",

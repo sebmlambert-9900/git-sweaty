@@ -19758,5 +19758,31 @@
     "start_date_local": "2026-05-01T05:59:21Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18337242420",
+    "moving_time": 3259.0,
+    "name": "Friday Frowdown @ PERFIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-05-01T19:02:22Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 10637.8,
+    "elevation_gain": 84.4,
+    "id": "18344590553",
+    "moving_time": 3652.0,
+    "name": "60 mins easy \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-02T11:05:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
