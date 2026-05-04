@@ -19784,5 +19784,31 @@
     "start_date_local": "2026-05-02T11:05:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18369472822",
+    "moving_time": 3223.0,
+    "name": "Upper @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-04T07:00:52Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 14024.3,
+    "elevation_gain": 83.6,
+    "id": "18372010194",
+    "moving_time": 4217.0,
+    "name": "Bank Holiday Bimble",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-04T13:11:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
