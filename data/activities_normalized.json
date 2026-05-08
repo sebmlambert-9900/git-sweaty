@@ -19823,5 +19823,31 @@
     "start_date_local": "2026-05-05T06:05:42Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 8868.0,
+    "elevation_gain": 53.0,
+    "id": "18416112701",
+    "moving_time": 2765.0,
+    "name": "8km - Riverside & Cathedral loop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-07T18:42:23Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18421210504",
+    "moving_time": 1760.0,
+    "name": "Friday Fitness @ PERFIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-05-08T06:11:57Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
