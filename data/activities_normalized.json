@@ -19849,5 +19849,18 @@
     "start_date_local": "2026-05-08T06:11:57Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 12399.5,
+    "elevation_gain": 73.8,
+    "id": "18437711357",
+    "moving_time": 3790.0,
+    "name": "60 mins in the sun \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-09T11:53:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
