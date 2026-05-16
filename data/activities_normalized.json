@@ -19940,5 +19940,31 @@
     "start_date_local": "2026-05-15T06:02:45Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18520282985",
+    "moving_time": 3023.0,
+    "name": "Full Body @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-15T17:59:42Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 6393.8,
+    "elevation_gain": 43.6,
+    "id": "18520283224",
+    "moving_time": 1943.0,
+    "name": "Post gym commute",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-15T19:00:50Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
