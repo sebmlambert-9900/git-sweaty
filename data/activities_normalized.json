@@ -19966,5 +19966,44 @@
     "start_date_local": "2026-05-15T19:00:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 5120.4,
+    "elevation_gain": 29.4,
+    "id": "18531601902",
+    "moving_time": 1722.0,
+    "name": "Easy 5km",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-16T16:21:00Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18531603185",
+    "moving_time": 3600.0,
+    "name": "Padel @ Court de padel",
+    "raw_activity_type": "Workout",
+    "raw_type": "Padel",
+    "start_date_local": "2026-05-16T08:00:45Z",
+    "type": "Padel",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18540247863",
+    "moving_time": 5598.0,
+    "name": "Padel @ Pace Padel",
+    "raw_activity_type": "Workout",
+    "raw_type": "Racquetball",
+    "start_date_local": "2026-05-17T08:07:45Z",
+    "type": "Racquetball",
+    "year": 2026
   }
 ]

@@ -13823,6 +13823,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18520283224",
       "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 16,
+      "name": "Easy 5km",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18531601902",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 8,
+      "name": "Padel @ Court de padel",
+      "subtype": "Padel",
+      "type": "Padel",
+      "url": "https://www.strava.com/activities/18531603185",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 8,
+      "name": "Padel @ Pace Padel",
+      "subtype": "Racquetball",
+      "type": "Racquetball",
+      "url": "https://www.strava.com/activities/18540247863",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26486,6 +26513,28 @@
           "moving_time": 8888.0
         }
       },
+      "Padel": {
+        "2026-05-16": {
+          "activity_ids": [
+            "18531603185"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        }
+      },
+      "Racquetball": {
+        "2026-05-17": {
+          "activity_ids": [
+            "18540247863"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5598.0
+        }
+      },
       "Run": {
         "2026-01-01": {
           "activity_ids": [
@@ -27037,6 +27086,15 @@
           "distance": 6393.8,
           "elevation_gain": 43.6,
           "moving_time": 1943.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18531601902"
+          ],
+          "count": 1,
+          "distance": 5120.4,
+          "elevation_gain": 29.4,
+          "moving_time": 1722.0
         }
       },
       "Walk": {
@@ -27371,7 +27429,7 @@
       }
     }
   },
-  "generated_at": "2026-05-16T15:45:11.701428+00:00",
+  "generated_at": "2026-05-17T15:48:13.753417+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
@@ -27385,6 +27443,14 @@
     "Hike": {
       "accent": "#d6ff6b",
       "label": "Hike"
+    },
+    "Padel": {
+      "accent": "#ffbe0b",
+      "label": "Padel"
+    },
+    "Racquetball": {
+      "accent": "#fee440",
+      "label": "Racquetball"
     },
     "Ride": {
       "accent": "#05ffa1",
@@ -27414,12 +27480,14 @@
   "types": [
     "HighIntensityIntervalTraining",
     "Hike",
+    "Racquetball",
     "Ride",
     "Run",
     "Walk",
     "WeightTraining",
     "Workout",
-    "Yoga"
+    "Yoga",
+    "Padel"
   ],
   "units": {
     "distance": "km",
