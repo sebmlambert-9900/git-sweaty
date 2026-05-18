@@ -13850,6 +13850,24 @@
       "type": "Racquetball",
       "url": "https://www.strava.com/activities/18540247863",
       "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 17,
+      "name": "Easy Sunday Miles",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18546453364",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-18",
+      "hour": 6,
+      "name": "Upper @ PERFIT",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18551036274",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27095,6 +27113,15 @@
           "distance": 5120.4,
           "elevation_gain": 29.4,
           "moving_time": 1722.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18546453364"
+          ],
+          "count": 1,
+          "distance": 9485.3,
+          "elevation_gain": 54.2,
+          "moving_time": 3320.0
         }
       },
       "Walk": {
@@ -27414,6 +27441,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3023.0
+        },
+        "2026-05-18": {
+          "activity_ids": [
+            "18551036274"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3187.0
         }
       },
       "Yoga": {
@@ -27429,7 +27465,7 @@
       }
     }
   },
-  "generated_at": "2026-05-17T15:48:13.753417+00:00",
+  "generated_at": "2026-05-18T17:23:08.909572+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",

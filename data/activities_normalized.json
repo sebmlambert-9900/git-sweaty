@@ -20005,5 +20005,31 @@
     "start_date_local": "2026-05-17T08:07:45Z",
     "type": "Racquetball",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 9485.3,
+    "elevation_gain": 54.2,
+    "id": "18546453364",
+    "moving_time": 3320.0,
+    "name": "Easy Sunday Miles",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T17:19:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18551036274",
+    "moving_time": 3187.0,
+    "name": "Upper @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-18T06:00:31Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
