@@ -20031,5 +20031,44 @@
     "start_date_local": "2026-05-18T06:00:31Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 8824.1,
+    "elevation_gain": 56.0,
+    "id": "18559190213",
+    "moving_time": 2995.0,
+    "name": "Monday Night Tempos",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-18T18:35:36Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18563855609",
+    "moving_time": 3353.0,
+    "name": "Full Body @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-19T05:55:34Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 5747.1,
+    "elevation_gain": 37.0,
+    "id": "18564718001",
+    "moving_time": 1623.0,
+    "name": "Morning 5km",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-19T08:15:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

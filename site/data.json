@@ -13868,6 +13868,33 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18551036274",
       "year": 2026
+    },
+    {
+      "date": "2026-05-18",
+      "hour": 18,
+      "name": "Monday Night Tempos",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18559190213",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 5,
+      "name": "Full Body @ PERFIT",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18563855609",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 8,
+      "name": "Morning 5km",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18564718001",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27122,6 +27149,24 @@
           "distance": 9485.3,
           "elevation_gain": 54.2,
           "moving_time": 3320.0
+        },
+        "2026-05-18": {
+          "activity_ids": [
+            "18559190213"
+          ],
+          "count": 1,
+          "distance": 8824.1,
+          "elevation_gain": 56.0,
+          "moving_time": 2995.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18564718001"
+          ],
+          "count": 1,
+          "distance": 5747.1,
+          "elevation_gain": 37.0,
+          "moving_time": 1623.0
         }
       },
       "Walk": {
@@ -27450,6 +27495,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3187.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18563855609"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3353.0
         }
       },
       "Yoga": {
@@ -27465,7 +27519,7 @@
       }
     }
   },
-  "generated_at": "2026-05-18T17:23:08.909572+00:00",
+  "generated_at": "2026-05-19T17:32:54.393608+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
