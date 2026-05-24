@@ -20083,5 +20083,44 @@
     "start_date_local": "2026-05-22T06:03:38Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18617101798",
+    "moving_time": 3139.0,
+    "name": "Super Saturday @ PERFIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-05-23T07:32:33Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18625573859",
+    "moving_time": 2914.0,
+    "name": "Padel @ Pace Padel",
+    "raw_activity_type": "Workout",
+    "raw_type": "Padel",
+    "start_date_local": "2026-05-23T18:43:45Z",
+    "type": "Padel",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 17334.3,
+    "elevation_gain": 113.4,
+    "id": "18631613586",
+    "moving_time": 5860.0,
+    "name": "17km Whitlingham & Cathedral Loop \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-24T08:08:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
