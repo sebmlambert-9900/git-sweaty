@@ -13949,6 +13949,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18656954267",
       "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 5,
+      "name": "Capacity @ PERFIT",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "url": "https://www.strava.com/activities/18670903026",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26599,6 +26608,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3139.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18670903026"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2608.0
         }
       },
       "Hike": {
@@ -27627,7 +27645,7 @@
       }
     }
   },
-  "generated_at": "2026-05-26T17:50:08.074466+00:00",
+  "generated_at": "2026-05-27T17:49:28.948563+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",

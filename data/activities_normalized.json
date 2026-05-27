@@ -20148,5 +20148,18 @@
     "start_date_local": "2026-05-26T06:01:39Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18670903026",
+    "moving_time": 2608.0,
+    "name": "Capacity @ PERFIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-05-27T05:51:38Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
