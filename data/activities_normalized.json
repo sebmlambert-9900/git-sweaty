@@ -20161,5 +20161,31 @@
     "start_date_local": "2026-05-27T05:51:38Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 8296.1,
+    "elevation_gain": 4.8,
+    "id": "18680047442",
+    "moving_time": 2109.0,
+    "name": "Track Intervals @ PERFIT",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-27T19:25:06Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18684976479",
+    "moving_time": 3107.0,
+    "name": "Full Body @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-28T05:58:07Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
