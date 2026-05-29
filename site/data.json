@@ -13976,6 +13976,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18684976479",
       "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 16,
+      "name": "Upper @ Rhodes Airbnb",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18704246925",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27666,6 +27675,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3107.0
+        },
+        "2026-05-29": {
+          "activity_ids": [
+            "18704246925"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2476.0
         }
       },
       "Yoga": {
@@ -27681,7 +27699,7 @@
       }
     }
   },
-  "generated_at": "2026-05-28T17:54:22.104932+00:00",
+  "generated_at": "2026-05-29T17:59:00.397957+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",

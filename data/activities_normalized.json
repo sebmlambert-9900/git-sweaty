@@ -20187,5 +20187,18 @@
     "start_date_local": "2026-05-28T05:58:07Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18704246925",
+    "moving_time": 2476.0,
+    "name": "Upper @ Rhodes Airbnb",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-29T16:24:03Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
