@@ -13985,6 +13985,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18704246925",
       "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 8,
+      "name": "Norwich Rhodesrunners",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18710377057",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27311,6 +27320,15 @@
           "distance": 8296.1,
           "elevation_gain": 4.8,
           "moving_time": 2109.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18710377057"
+          ],
+          "count": 1,
+          "distance": 7526.9,
+          "elevation_gain": 17.2,
+          "moving_time": 2512.0
         }
       },
       "Walk": {
@@ -27699,7 +27717,7 @@
       }
     }
   },
-  "generated_at": "2026-05-29T17:59:00.397957+00:00",
+  "generated_at": "2026-05-30T15:57:10.213253+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
