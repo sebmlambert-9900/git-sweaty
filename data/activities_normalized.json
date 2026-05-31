@@ -20213,5 +20213,18 @@
     "start_date_local": "2026-05-30T08:04:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 7056.9,
+    "elevation_gain": 13.4,
+    "id": "18723597373",
+    "moving_time": 2401.0,
+    "name": "40 mins @ Theologos, Rhodes",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T08:11:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
