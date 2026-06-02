@@ -20226,5 +20226,31 @@
     "start_date_local": "2026-05-31T08:11:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18751458242",
+    "moving_time": 5400.0,
+    "name": "Padel @ Padel Box Club, Rhodes",
+    "raw_activity_type": "Workout",
+    "raw_type": "Padel",
+    "start_date_local": "2026-06-01T08:30:00Z",
+    "type": "Padel",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18751326913",
+    "moving_time": 2863.0,
+    "name": "Upper",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-02T08:11:57Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

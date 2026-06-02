@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T19:49:20.713544+00:00",
+  "generated_at": "2026-06-02T18:28:45.653919+00:00",
   "years": {
     "2016": {
       "Run": {
@@ -12706,6 +12706,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2914.0
+        },
+        "2026-06-01": {
+          "activity_ids": [
+            "18751458242"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5400.0
         }
       },
       "Racquetball": {
@@ -13715,6 +13724,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2476.0
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "18751326913"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2863.0
         }
       },
       "Yoga": {
