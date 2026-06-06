@@ -14039,6 +14039,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18779372613",
       "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 8,
+      "name": "12km @ Whitlingham loop",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18806341739",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27401,6 +27410,15 @@
           "distance": 7035.1,
           "elevation_gain": 8.4,
           "moving_time": 2222.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18806341739"
+          ],
+          "count": 1,
+          "distance": 12044.8,
+          "elevation_gain": 74.2,
+          "moving_time": 3516.0
         }
       },
       "Walk": {
@@ -27807,7 +27825,7 @@
       }
     }
   },
-  "generated_at": "2026-06-05T17:06:32.722607+00:00",
+  "generated_at": "2026-06-06T16:00:20.375623+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",

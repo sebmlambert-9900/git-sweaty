@@ -20278,5 +20278,18 @@
     "start_date_local": "2026-06-04T07:58:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 12044.8,
+    "elevation_gain": 74.2,
+    "id": "18806341739",
+    "moving_time": 3516.0,
+    "name": "12km @ Whitlingham loop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-06T08:49:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
