@@ -20291,5 +20291,44 @@
     "start_date_local": "2026-06-06T08:49:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18828024626",
+    "moving_time": 3417.0,
+    "name": "Padel @ Pace Padel",
+    "raw_activity_type": "Workout",
+    "raw_type": "Padel",
+    "start_date_local": "2026-06-07T16:34:05Z",
+    "type": "Padel",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18833095818",
+    "moving_time": 2920.0,
+    "name": "Upper @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-08T06:01:22Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 7794.4,
+    "elevation_gain": 37.6,
+    "id": "18839125312",
+    "moving_time": 2254.0,
+    "name": "Monday Night Tempos",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-08T17:12:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
