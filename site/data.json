@@ -14075,6 +14075,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18839125312",
       "year": 2026
+    },
+    {
+      "date": "2026-06-09",
+      "hour": 6,
+      "name": "Full Body @ PERFIT",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18846451348",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27864,6 +27873,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2920.0
+        },
+        "2026-06-09": {
+          "activity_ids": [
+            "18846451348"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2901.0
         }
       },
       "Yoga": {
@@ -27879,7 +27897,7 @@
       }
     }
   },
-  "generated_at": "2026-06-08T17:41:50.033614+00:00",
+  "generated_at": "2026-06-09T17:16:02.603160+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
