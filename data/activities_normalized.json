@@ -20343,5 +20343,18 @@
     "start_date_local": "2026-06-09T06:00:46Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 8848.8,
+    "elevation_gain": 51.2,
+    "id": "18854621822",
+    "moving_time": 2890.0,
+    "name": "Steady 8km",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-09T18:28:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

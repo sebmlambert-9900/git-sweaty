@@ -14084,6 +14084,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18846451348",
       "year": 2026
+    },
+    {
+      "date": "2026-06-09",
+      "hour": 18,
+      "name": "Steady 8km",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18854621822",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27473,6 +27482,15 @@
           "distance": 7794.4,
           "elevation_gain": 37.6,
           "moving_time": 2254.0
+        },
+        "2026-06-09": {
+          "activity_ids": [
+            "18854621822"
+          ],
+          "count": 1,
+          "distance": 8848.8,
+          "elevation_gain": 51.2,
+          "moving_time": 2890.0
         }
       },
       "Walk": {
@@ -27897,7 +27915,7 @@
       }
     }
   },
-  "generated_at": "2026-06-09T17:16:02.603160+00:00",
+  "generated_at": "2026-06-10T17:48:35.200181+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
