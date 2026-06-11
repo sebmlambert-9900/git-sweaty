@@ -14093,6 +14093,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18854621822",
       "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 19,
+      "name": "PRC Track Intervals \ud83c\udf27\ufe0f",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18869694487",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27491,6 +27500,15 @@
           "distance": 8848.8,
           "elevation_gain": 51.2,
           "moving_time": 2890.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18869694487"
+          ],
+          "count": 1,
+          "distance": 8242.7,
+          "elevation_gain": 47.2,
+          "moving_time": 2125.0
         }
       },
       "Walk": {
@@ -27915,7 +27933,7 @@
       }
     }
   },
-  "generated_at": "2026-06-10T17:48:35.200181+00:00",
+  "generated_at": "2026-06-11T17:59:24.907347+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
