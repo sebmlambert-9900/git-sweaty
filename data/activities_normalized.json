@@ -20382,5 +20382,31 @@
     "start_date_local": "2026-06-12T06:07:42Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18901227476",
+    "moving_time": 5398.0,
+    "name": "Padel @ Pace Padel",
+    "raw_activity_type": "Workout",
+    "raw_type": "Racquetball",
+    "start_date_local": "2026-06-13T08:00:54Z",
+    "type": "Racquetball",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 14033.7,
+    "elevation_gain": 89.2,
+    "id": "18905335333",
+    "moving_time": 4503.0,
+    "name": "14km @ Whitlingham Loop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-13T14:28:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

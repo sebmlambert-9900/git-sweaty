@@ -14111,6 +14111,24 @@
       "type": "HighIntensityIntervalTraining",
       "url": "https://www.strava.com/activities/18886681321",
       "year": 2026
+    },
+    {
+      "date": "2026-06-13",
+      "hour": 8,
+      "name": "Padel @ Pace Padel",
+      "subtype": "Racquetball",
+      "type": "Racquetball",
+      "url": "https://www.strava.com/activities/18901227476",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-13",
+      "hour": 14,
+      "name": "14km @ Whitlingham Loop",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18905335333",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26857,6 +26875,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5598.0
+        },
+        "2026-06-13": {
+          "activity_ids": [
+            "18901227476"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5398.0
         }
       },
       "Run": {
@@ -27527,6 +27554,15 @@
           "distance": 8242.7,
           "elevation_gain": 47.2,
           "moving_time": 2125.0
+        },
+        "2026-06-13": {
+          "activity_ids": [
+            "18905335333"
+          ],
+          "count": 1,
+          "distance": 14033.7,
+          "elevation_gain": 89.2,
+          "moving_time": 4503.0
         }
       },
       "Walk": {
@@ -27951,7 +27987,7 @@
       }
     }
   },
-  "generated_at": "2026-06-12T17:29:40.174271+00:00",
+  "generated_at": "2026-06-13T16:07:18.716971+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
