@@ -14138,6 +14138,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18916342331",
       "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 6,
+      "name": "Upper @ PERFIT",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18925319801",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 18,
+      "name": "Monday Night Tempos",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18933099877",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27572,6 +27590,15 @@
           "distance": 14033.7,
           "elevation_gain": 89.2,
           "moving_time": 4503.0
+        },
+        "2026-06-15": {
+          "activity_ids": [
+            "18933099877"
+          ],
+          "count": 1,
+          "distance": 7823.7,
+          "elevation_gain": 44.0,
+          "moving_time": 2312.0
         }
       },
       "Walk": {
@@ -27990,6 +28017,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2901.0
+        },
+        "2026-06-15": {
+          "activity_ids": [
+            "18925319801"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2900.0
         }
       },
       "Yoga": {
@@ -28005,7 +28041,7 @@
       }
     }
   },
-  "generated_at": "2026-06-14T16:15:34.378695+00:00",
+  "generated_at": "2026-06-15T18:59:04.148984+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
