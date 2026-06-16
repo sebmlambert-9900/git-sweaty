@@ -20447,5 +20447,31 @@
     "start_date_local": "2026-06-15T18:44:18Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18938858157",
+    "moving_time": 3300.0,
+    "name": "Full Body @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-16T06:00:21Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 8276.0,
+    "elevation_gain": 41.2,
+    "id": "18947131266",
+    "moving_time": 2747.0,
+    "name": "Easy Eight",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-16T17:56:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
