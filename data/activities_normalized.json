@@ -20525,5 +20525,18 @@
     "start_date_local": "2026-06-21T10:53:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19018287116",
+    "moving_time": 2913.0,
+    "name": "Upper @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-22T06:01:56Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
