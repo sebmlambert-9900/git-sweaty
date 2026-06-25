@@ -20564,5 +20564,18 @@
     "start_date_local": "2026-06-24T07:23:18Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 6356.3,
+    "elevation_gain": 2.0,
+    "id": "19053422984",
+    "moving_time": 1666.0,
+    "name": "PRC Track Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-24T19:25:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
