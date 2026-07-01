@@ -20629,5 +20629,18 @@
     "start_date_local": "2026-06-30T06:02:41Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 5018.2,
+    "elevation_gain": 22.2,
+    "id": "19127428664",
+    "moving_time": 1665.0,
+    "name": "Riverside 5km",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-30T18:49:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

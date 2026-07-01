@@ -14282,6 +14282,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19119458844",
       "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 18,
+      "name": "Riverside 5km",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19127428664",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27798,6 +27807,15 @@
           "distance": 14649.900000000001,
           "elevation_gain": 43.8,
           "moving_time": 4483.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "19127428664"
+          ],
+          "count": 1,
+          "distance": 5018.2,
+          "elevation_gain": 22.2,
+          "moving_time": 1665.0
         }
       },
       "Walk": {
@@ -28285,7 +28303,7 @@
       }
     }
   },
-  "generated_at": "2026-06-30T16:59:28.934780+00:00",
+  "generated_at": "2026-07-01T17:04:07.008418+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
