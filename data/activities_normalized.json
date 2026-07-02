@@ -20642,5 +20642,18 @@
     "start_date_local": "2026-06-30T18:49:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 5084.6,
+    "elevation_gain": 22.0,
+    "id": "19141735302",
+    "moving_time": 1140.0,
+    "name": "Wroxham 5k",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-01T19:00:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
