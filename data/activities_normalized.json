@@ -20694,5 +20694,31 @@
     "start_date_local": "2026-07-05T07:31:36Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19205004062",
+    "moving_time": 3082.0,
+    "name": "Monday Mover @ PERFIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-07-06T18:59:40Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19210329791",
+    "moving_time": 2140.0,
+    "name": "Full Body @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-07T06:17:27Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
