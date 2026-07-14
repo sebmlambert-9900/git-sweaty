@@ -20733,5 +20733,31 @@
     "start_date_local": "2026-07-08T05:58:08Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19297622960",
+    "moving_time": 3497.0,
+    "name": "Upper @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-13T05:58:50Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19304396817",
+    "moving_time": 2808.0,
+    "name": "Full Body @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-14T06:06:25Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

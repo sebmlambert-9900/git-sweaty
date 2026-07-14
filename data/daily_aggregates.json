@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T17:03:46.323086+00:00",
+  "generated_at": "2026-07-14T16:06:43.860855+00:00",
   "years": {
     "2016": {
       "Run": {
@@ -14058,6 +14058,24 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3232.0
+        },
+        "2026-07-13": {
+          "activity_ids": [
+            "19297622960"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3497.0
+        },
+        "2026-07-14": {
+          "activity_ids": [
+            "19304396817"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2808.0
         }
       },
       "Yoga": {
