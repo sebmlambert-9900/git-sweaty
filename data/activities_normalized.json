@@ -20785,5 +20785,18 @@
     "start_date_local": "2026-07-17T05:54:38Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19360782050",
+    "moving_time": 3706.0,
+    "name": "Padel @ Pace Padel",
+    "raw_activity_type": "Workout",
+    "raw_type": "Padel",
+    "start_date_local": "2026-07-18T08:04:35Z",
+    "type": "Padel",
+    "year": 2026
   }
 ]
