@@ -20798,5 +20798,18 @@
     "start_date_local": "2026-07-18T08:04:35Z",
     "type": "Padel",
     "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19373740283",
+    "moving_time": 3408.0,
+    "name": "Hyrox @ PERFIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-07-19T07:32:00Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
