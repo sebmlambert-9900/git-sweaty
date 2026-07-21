@@ -20824,5 +20824,31 @@
     "start_date_local": "2026-07-20T06:00:41Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 2883.1,
+    "elevation_gain": 17.0,
+    "id": "19391813223",
+    "moving_time": 867.0,
+    "name": "Achilles test",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-20T18:23:15Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19398290777",
+    "moving_time": 3119.0,
+    "name": "Full Body @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-21T05:59:47Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
