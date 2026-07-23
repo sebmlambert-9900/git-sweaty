@@ -20850,5 +20850,18 @@
     "start_date_local": "2026-07-21T05:59:47Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19428091911",
+    "moving_time": 1841.0,
+    "name": "Upper @ The Gym",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-23T06:54:11Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
