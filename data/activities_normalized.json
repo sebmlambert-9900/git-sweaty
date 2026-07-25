@@ -20863,5 +20863,31 @@
     "start_date_local": "2026-07-23T06:54:11Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19442436636",
+    "moving_time": 2855.0,
+    "name": "Friday Fitness @ PERFIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-07-24T05:52:03Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 8076.4,
+    "elevation_gain": 31.0,
+    "id": "19449911206",
+    "moving_time": 2095.0,
+    "name": "Worstead 5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-24T19:00:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

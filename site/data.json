@@ -14444,6 +14444,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19428091911",
       "year": 2026
+    },
+    {
+      "date": "2026-07-24",
+      "hour": 5,
+      "name": "Friday Fitness @ PERFIT",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "url": "https://www.strava.com/activities/19442436636",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-24",
+      "hour": 19,
+      "name": "Worstead 5",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19449911206",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27193,6 +27211,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3408.0
+        },
+        "2026-07-24": {
+          "activity_ids": [
+            "19442436636"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2855.0
         }
       },
       "Hike": {
@@ -28059,6 +28086,15 @@
           "distance": 2883.1,
           "elevation_gain": 17.0,
           "moving_time": 867.0
+        },
+        "2026-07-24": {
+          "activity_ids": [
+            "19449911206"
+          ],
+          "count": 1,
+          "distance": 8076.4,
+          "elevation_gain": 31.0,
+          "moving_time": 2095.0
         }
       },
       "Walk": {
@@ -28609,7 +28645,7 @@
       }
     }
   },
-  "generated_at": "2026-07-23T16:17:21.295915+00:00",
+  "generated_at": "2026-07-25T15:53:55.143721+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
