@@ -20941,5 +20941,18 @@
     "start_date_local": "2026-07-28T06:01:20Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 8170.2,
+    "elevation_gain": 5.2,
+    "id": "19519860479",
+    "moving_time": 2269.0,
+    "name": "PRC Track Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-29T19:19:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
