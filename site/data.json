@@ -14521,8 +14521,8 @@
       "date": "2026-08-01",
       "hour": 8,
       "name": "Padel @ Pace Padel",
-      "subtype": "Racquetball",
-      "type": "Racquetball",
+      "subtype": "Padel",
+      "type": "Padel",
       "url": "https://www.strava.com/activities/19554709385",
       "year": 2026
     },
@@ -14533,6 +14533,15 @@
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/19554709606",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-03",
+      "hour": 6,
+      "name": "Upper @ PERFIT",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19578545855",
       "year": 2026
     }
   ],
@@ -27395,6 +27404,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3706.0
+        },
+        "2026-08-01": {
+          "activity_ids": [
+            "19554709385"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4966.0
         }
       },
       "Racquetball": {
@@ -27415,15 +27433,6 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5398.0
-        },
-        "2026-08-01": {
-          "activity_ids": [
-            "19554709385"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 4966.0
         }
       },
       "Run": {
@@ -28774,6 +28783,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3091.0
+        },
+        "2026-08-03": {
+          "activity_ids": [
+            "19578545855"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3074.0
         }
       },
       "Yoga": {
@@ -28789,7 +28807,7 @@
       }
     }
   },
-  "generated_at": "2026-08-02T15:50:25.744296+00:00",
+  "generated_at": "2026-08-03T17:03:10.537716+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",

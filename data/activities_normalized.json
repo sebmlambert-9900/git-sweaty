@@ -20976,9 +20976,9 @@
     "moving_time": 4966.0,
     "name": "Padel @ Pace Padel",
     "raw_activity_type": "Workout",
-    "raw_type": "Racquetball",
+    "raw_type": "Padel",
     "start_date_local": "2026-08-01T08:08:59Z",
-    "type": "Racquetball",
+    "type": "Padel",
     "year": 2026
   },
   {
@@ -20992,6 +20992,19 @@
     "raw_type": "Run",
     "start_date_local": "2026-08-01T10:58:14Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19578545855",
+    "moving_time": 3074.0,
+    "name": "Upper @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-03T06:00:18Z",
+    "type": "WeightTraining",
     "year": 2026
   }
 ]
