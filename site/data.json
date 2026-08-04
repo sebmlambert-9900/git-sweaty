@@ -14543,6 +14543,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19578545855",
       "year": 2026
+    },
+    {
+      "date": "2026-08-03",
+      "hour": 17,
+      "name": "Easy 11km - Whitlingham Loop",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19586043578",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-04",
+      "hour": 6,
+      "name": "Full Body @ PERFIT",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19592583371",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28230,6 +28248,15 @@
           "distance": 21144.1,
           "elevation_gain": 92.8,
           "moving_time": 6553.0
+        },
+        "2026-08-03": {
+          "activity_ids": [
+            "19586043578"
+          ],
+          "count": 1,
+          "distance": 11889.0,
+          "elevation_gain": 73.4,
+          "moving_time": 3873.0
         }
       },
       "Walk": {
@@ -28792,6 +28819,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3074.0
+        },
+        "2026-08-04": {
+          "activity_ids": [
+            "19592583371"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2829.0
         }
       },
       "Yoga": {
@@ -28807,7 +28843,7 @@
       }
     }
   },
-  "generated_at": "2026-08-03T17:03:10.537716+00:00",
+  "generated_at": "2026-08-04T16:44:43.475055+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
