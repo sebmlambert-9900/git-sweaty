@@ -14561,6 +14561,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19592583371",
       "year": 2026
+    },
+    {
+      "date": "2026-08-05",
+      "hour": 19,
+      "name": "PRC Track Intervals",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19617677073",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-07",
+      "hour": 5,
+      "name": "Friday Fitness @ PERFIT",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "url": "https://www.strava.com/activities/19636262565",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27337,6 +27355,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2894.0
+        },
+        "2026-08-07": {
+          "activity_ids": [
+            "19636262565"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2368.0
         }
       },
       "Hike": {
@@ -28257,6 +28284,15 @@
           "distance": 11889.0,
           "elevation_gain": 73.4,
           "moving_time": 3873.0
+        },
+        "2026-08-05": {
+          "activity_ids": [
+            "19617677073"
+          ],
+          "count": 1,
+          "distance": 7785.7,
+          "elevation_gain": 28.4,
+          "moving_time": 2371.0
         }
       },
       "Walk": {
@@ -28843,7 +28879,7 @@
       }
     }
   },
-  "generated_at": "2026-08-05T16:24:49.349525+00:00",
+  "generated_at": "2026-08-07T15:41:19.147865+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",

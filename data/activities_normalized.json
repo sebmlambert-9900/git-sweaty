@@ -21032,5 +21032,31 @@
     "start_date_local": "2026-08-04T06:00:05Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 7785.7,
+    "elevation_gain": 28.4,
+    "id": "19617677073",
+    "moving_time": 2371.0,
+    "name": "PRC Track Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-05T19:27:39Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19636262565",
+    "moving_time": 2368.0,
+    "name": "Friday Fitness @ PERFIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-08-07T05:56:58Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
