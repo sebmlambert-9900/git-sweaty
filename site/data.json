@@ -14579,6 +14579,24 @@
       "type": "HighIntensityIntervalTraining",
       "url": "https://www.strava.com/activities/19636262565",
       "year": 2026
+    },
+    {
+      "date": "2026-08-07",
+      "hour": 19,
+      "name": "Padel",
+      "subtype": "Racquetball",
+      "type": "Racquetball",
+      "url": "https://www.strava.com/activities/19645727040",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-08",
+      "hour": 7,
+      "name": "25km - Race practice long run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19650802159",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27478,6 +27496,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5398.0
+        },
+        "2026-08-07": {
+          "activity_ids": [
+            "19645727040"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5077.0
         }
       },
       "Run": {
@@ -28293,6 +28320,15 @@
           "distance": 7785.7,
           "elevation_gain": 28.4,
           "moving_time": 2371.0
+        },
+        "2026-08-08": {
+          "activity_ids": [
+            "19650802159"
+          ],
+          "count": 1,
+          "distance": 25600.6,
+          "elevation_gain": 131.5,
+          "moving_time": 7690.0
         }
       },
       "Walk": {
@@ -28879,7 +28915,7 @@
       }
     }
   },
-  "generated_at": "2026-08-07T15:41:19.147865+00:00",
+  "generated_at": "2026-08-08T15:16:50.018563+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",

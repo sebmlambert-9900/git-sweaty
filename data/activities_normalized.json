@@ -21058,5 +21058,31 @@
     "start_date_local": "2026-08-07T05:56:58Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19645727040",
+    "moving_time": 5077.0,
+    "name": "Padel",
+    "raw_activity_type": "Workout",
+    "raw_type": "Racquetball",
+    "start_date_local": "2026-08-07T19:11:16Z",
+    "type": "Racquetball",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 25600.6,
+    "elevation_gain": 131.5,
+    "id": "19650802159",
+    "moving_time": 7690.0,
+    "name": "25km - Race practice long run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-08T07:46:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
