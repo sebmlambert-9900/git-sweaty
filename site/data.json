@@ -14597,6 +14597,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19650802159",
       "year": 2026
+    },
+    {
+      "date": "2026-08-08",
+      "hour": 17,
+      "name": "Padel",
+      "subtype": "Padel",
+      "type": "Padel",
+      "url": "https://www.strava.com/activities/19659656562",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27476,6 +27485,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4966.0
+        },
+        "2026-08-08": {
+          "activity_ids": [
+            "19659656562"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5434.0
         }
       },
       "Racquetball": {
@@ -28915,7 +28933,7 @@
       }
     }
   },
-  "generated_at": "2026-08-08T15:16:50.018563+00:00",
+  "generated_at": "2026-08-09T15:18:58.470203+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",

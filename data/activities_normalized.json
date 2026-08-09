@@ -21084,5 +21084,18 @@
     "start_date_local": "2026-08-08T07:46:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19659656562",
+    "moving_time": 5434.0,
+    "name": "Padel",
+    "raw_activity_type": "Workout",
+    "raw_type": "Padel",
+    "start_date_local": "2026-08-08T17:30:04Z",
+    "type": "Padel",
+    "year": 2026
   }
 ]
