@@ -21097,5 +21097,18 @@
     "start_date_local": "2026-08-08T17:30:04Z",
     "type": "Padel",
     "year": 2026
+  },
+  {
+    "date": "2026-08-10",
+    "distance": 1086.3,
+    "elevation_gain": 17.8,
+    "id": "19677665908",
+    "moving_time": 1537.0,
+    "name": "Upper @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-10T06:00:55Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

@@ -14606,6 +14606,15 @@
       "type": "Padel",
       "url": "https://www.strava.com/activities/19659656562",
       "year": 2026
+    },
+    {
+      "date": "2026-08-10",
+      "hour": 6,
+      "name": "Upper @ PERFIT",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19677665908",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28918,6 +28927,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2829.0
+        },
+        "2026-08-10": {
+          "activity_ids": [
+            "19677665908"
+          ],
+          "count": 1,
+          "distance": 1086.3,
+          "elevation_gain": 17.8,
+          "moving_time": 1537.0
         }
       },
       "Yoga": {
@@ -28933,7 +28951,7 @@
       }
     }
   },
-  "generated_at": "2026-08-09T15:18:58.470203+00:00",
+  "generated_at": "2026-08-10T15:46:15.634297+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
