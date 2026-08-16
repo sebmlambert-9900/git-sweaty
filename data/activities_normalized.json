@@ -21175,5 +21175,31 @@
     "start_date_local": "2026-08-15T09:28:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19763710850",
+    "moving_time": 2803.0,
+    "name": "Hyrox @ PERFIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-08-16T07:39:28Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 10356.3,
+    "elevation_gain": 83.2,
+    "id": "19763711187",
+    "moving_time": 3612.0,
+    "name": "Billy\u2019s Social Run - 10km",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-16T09:16:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
