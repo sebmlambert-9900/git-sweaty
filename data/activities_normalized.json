@@ -21214,5 +21214,31 @@
     "start_date_local": "2026-08-16T16:02:25Z",
     "type": "Padel",
     "year": 2026
+  },
+  {
+    "date": "2026-08-17",
+    "distance": 11060.5,
+    "elevation_gain": 65.2,
+    "id": "19784054079",
+    "moving_time": 3659.0,
+    "name": "11km Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-17T19:08:40Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19789808435",
+    "moving_time": 3043.0,
+    "name": "Upper @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-18T06:00:06Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

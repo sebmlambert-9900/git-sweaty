@@ -14687,6 +14687,24 @@
       "type": "Padel",
       "url": "https://www.strava.com/activities/19770467155",
       "year": 2026
+    },
+    {
+      "date": "2026-08-17",
+      "hour": 19,
+      "name": "11km Easy Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19784054079",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-18",
+      "hour": 6,
+      "name": "Upper @ PERFIT",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19789808435",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28491,6 +28509,15 @@
           "distance": 10356.3,
           "elevation_gain": 83.2,
           "moving_time": 3612.0
+        },
+        "2026-08-17": {
+          "activity_ids": [
+            "19784054079"
+          ],
+          "count": 1,
+          "distance": 11060.5,
+          "elevation_gain": 65.2,
+          "moving_time": 3659.0
         }
       },
       "Walk": {
@@ -29080,6 +29107,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2796.0
+        },
+        "2026-08-18": {
+          "activity_ids": [
+            "19789808435"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3043.0
         }
       },
       "Yoga": {
@@ -29095,7 +29131,7 @@
       }
     }
   },
-  "generated_at": "2026-08-17T15:13:45.349999+00:00",
+  "generated_at": "2026-08-18T15:18:48.220495+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
