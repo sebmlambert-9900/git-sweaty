@@ -21253,5 +21253,18 @@
     "start_date_local": "2026-08-18T19:34:38Z",
     "type": "Padel",
     "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 11586.8,
+    "elevation_gain": 31.8,
+    "id": "19813125257",
+    "moving_time": 3305.0,
+    "name": "Progressive Run - 11km",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-19T18:24:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
