@@ -14723,6 +14723,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19813125257",
       "year": 2026
+    },
+    {
+      "date": "2026-08-22",
+      "hour": 9,
+      "name": "25km - Long Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19848093592",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28554,6 +28563,15 @@
           "distance": 11586.8,
           "elevation_gain": 31.8,
           "moving_time": 3305.0
+        },
+        "2026-08-22": {
+          "activity_ids": [
+            "19848093592"
+          ],
+          "count": 1,
+          "distance": 26237.3,
+          "elevation_gain": 128.6,
+          "moving_time": 7457.0
         }
       },
       "Walk": {
@@ -29167,7 +29185,7 @@
       }
     }
   },
-  "generated_at": "2026-08-21T15:20:40.145168+00:00",
+  "generated_at": "2026-08-22T15:08:53.499983+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
