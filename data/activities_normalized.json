@@ -21331,5 +21331,18 @@
     "start_date_local": "2026-08-25T06:03:32Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 10034.3,
+    "elevation_gain": 29.4,
+    "id": "19913856542",
+    "moving_time": 2973.0,
+    "name": "PRC Intervals @ Eaton Park",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-26T19:09:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
