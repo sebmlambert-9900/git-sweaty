@@ -21357,5 +21357,18 @@
     "start_date_local": "2026-08-28T05:52:43Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 32051.0,
+    "elevation_gain": 177.6,
+    "id": "19947181879",
+    "moving_time": 10028.0,
+    "name": "32km - Saturday Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-29T08:50:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
