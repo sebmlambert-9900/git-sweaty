@@ -21370,5 +21370,18 @@
     "start_date_local": "2026-08-29T08:50:18Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 12209.3,
+    "elevation_gain": 18.2,
+    "id": "19977347523",
+    "moving_time": 3747.0,
+    "name": "400m Repeats @ Fortress Carrow Rd \u26bd\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-31T15:30:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -14795,6 +14795,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19947181879",
       "year": 2026
+    },
+    {
+      "date": "2026-08-31",
+      "hour": 15,
+      "name": "400m Repeats @ Fortress Carrow Rd \u26bd\ufe0f",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19977347523",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28680,6 +28689,15 @@
           "distance": 32051.0,
           "elevation_gain": 177.6,
           "moving_time": 10028.0
+        },
+        "2026-08-31": {
+          "activity_ids": [
+            "19977347523"
+          ],
+          "count": 1,
+          "distance": 12209.3,
+          "elevation_gain": 18.2,
+          "moving_time": 3747.0
         }
       },
       "Walk": {
@@ -29311,7 +29329,7 @@
       }
     }
   },
-  "generated_at": "2026-08-30T18:13:29.171810+00:00",
+  "generated_at": "2026-08-31T20:26:19.802582+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
