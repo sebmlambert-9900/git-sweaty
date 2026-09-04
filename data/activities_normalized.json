@@ -21409,5 +21409,18 @@
     "start_date_local": "2026-09-02T05:59:10Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 28536.4,
+    "elevation_gain": 209.6,
+    "id": "20032666035",
+    "moving_time": 9049.0,
+    "name": "28km - Friday Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-04T10:37:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -14822,6 +14822,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20001061359",
       "year": 2026
+    },
+    {
+      "date": "2026-09-04",
+      "hour": 10,
+      "name": "28km - Friday Long Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20032666035",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28716,6 +28725,15 @@
           "distance": 12209.3,
           "elevation_gain": 18.2,
           "moving_time": 3747.0
+        },
+        "2026-09-04": {
+          "activity_ids": [
+            "20032666035"
+          ],
+          "count": 1,
+          "distance": 28536.4,
+          "elevation_gain": 209.6,
+          "moving_time": 9049.0
         }
       },
       "Walk": {
@@ -29365,7 +29383,7 @@
       }
     }
   },
-  "generated_at": "2026-09-03T18:09:39.669725+00:00",
+  "generated_at": "2026-09-04T17:52:10.861554+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
