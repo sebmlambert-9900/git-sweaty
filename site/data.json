@@ -14831,6 +14831,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20032666035",
       "year": 2026
+    },
+    {
+      "date": "2026-09-06",
+      "hour": 9,
+      "name": "Run Norwich 2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20059219890",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28734,6 +28743,15 @@
           "distance": 28536.4,
           "elevation_gain": 209.6,
           "moving_time": 9049.0
+        },
+        "2026-09-06": {
+          "activity_ids": [
+            "20059219890"
+          ],
+          "count": 1,
+          "distance": 10177.6,
+          "elevation_gain": 76.4,
+          "moving_time": 2804.0
         }
       },
       "Walk": {
@@ -29383,7 +29401,7 @@
       }
     }
   },
-  "generated_at": "2026-09-05T16:58:58.821674+00:00",
+  "generated_at": "2026-09-06T17:23:14.250909+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",

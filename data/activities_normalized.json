@@ -21422,5 +21422,18 @@
     "start_date_local": "2026-09-04T10:37:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 10177.6,
+    "elevation_gain": 76.4,
+    "id": "20059219890",
+    "moving_time": 2804.0,
+    "name": "Run Norwich 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-06T09:42:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
