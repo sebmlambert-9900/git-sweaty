@@ -21461,5 +21461,18 @@
     "start_date_local": "2026-09-09T05:58:33Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-09",
+    "distance": 10864.6,
+    "elevation_gain": 45.4,
+    "id": "20108062614",
+    "moving_time": 3157.0,
+    "name": "PRC Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-09T19:14:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
