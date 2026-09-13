@@ -14867,6 +14867,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20108062614",
       "year": 2026
+    },
+    {
+      "date": "2026-09-13",
+      "hour": 10,
+      "name": "Great North Run 2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20157085060",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28788,6 +28797,15 @@
           "distance": 10864.6,
           "elevation_gain": 45.4,
           "moving_time": 3157.0
+        },
+        "2026-09-13": {
+          "activity_ids": [
+            "20157085060"
+          ],
+          "count": 1,
+          "distance": 21337.2,
+          "elevation_gain": 135.2,
+          "moving_time": 5368.0
         }
       },
       "Walk": {
@@ -29455,7 +29473,7 @@
       }
     }
   },
-  "generated_at": "2026-09-12T17:29:24.179440+00:00",
+  "generated_at": "2026-09-13T17:45:44.788317+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
