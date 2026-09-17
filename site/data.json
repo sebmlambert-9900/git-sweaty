@@ -14885,6 +14885,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20195458840",
       "year": 2026
+    },
+    {
+      "date": "2026-09-16",
+      "hour": 18,
+      "name": "12km Easy Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20204216297",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28815,6 +28824,15 @@
           "distance": 21337.2,
           "elevation_gain": 135.2,
           "moving_time": 5368.0
+        },
+        "2026-09-16": {
+          "activity_ids": [
+            "20204216297"
+          ],
+          "count": 1,
+          "distance": 12454.1,
+          "elevation_gain": 87.2,
+          "moving_time": 4786.0
         }
       },
       "Walk": {
@@ -29491,7 +29509,7 @@
       }
     }
   },
-  "generated_at": "2026-09-16T18:30:53.214847+00:00",
+  "generated_at": "2026-09-17T18:39:08.031130+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
