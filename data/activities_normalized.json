@@ -21526,5 +21526,18 @@
     "start_date_local": "2026-09-19T08:47:05Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20250472310",
+    "moving_time": 3545.0,
+    "name": "Hyrox Workshop @ PERFIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-09-20T07:35:44Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
