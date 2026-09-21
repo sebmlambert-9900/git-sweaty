@@ -14912,6 +14912,15 @@
       "type": "HighIntensityIntervalTraining",
       "url": "https://www.strava.com/activities/20250472310",
       "year": 2026
+    },
+    {
+      "date": "2026-09-21",
+      "hour": 6,
+      "name": "14km \u2018Easy\u2019 Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20263390533",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28869,6 +28878,15 @@
           "distance": 34029.5,
           "elevation_gain": 180.5,
           "moving_time": 10180.0
+        },
+        "2026-09-21": {
+          "activity_ids": [
+            "20263390533"
+          ],
+          "count": 1,
+          "distance": 14122.0,
+          "elevation_gain": 84.8,
+          "moving_time": 4569.0
         }
       },
       "Walk": {
@@ -29545,7 +29563,7 @@
       }
     }
   },
-  "generated_at": "2026-09-20T17:45:41.991809+00:00",
+  "generated_at": "2026-09-21T19:47:26.854642+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
