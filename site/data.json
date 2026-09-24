@@ -14921,6 +14921,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20263390533",
       "year": 2026
+    },
+    {
+      "date": "2026-09-24",
+      "hour": 18,
+      "name": "11km - Cathedral Loop",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20314502612",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28887,6 +28896,15 @@
           "distance": 14122.0,
           "elevation_gain": 84.8,
           "moving_time": 4569.0
+        },
+        "2026-09-24": {
+          "activity_ids": [
+            "20314502612"
+          ],
+          "count": 1,
+          "distance": 11107.5,
+          "elevation_gain": 63.6,
+          "moving_time": 3154.0
         }
       },
       "Walk": {
@@ -29563,7 +29581,7 @@
       }
     }
   },
-  "generated_at": "2026-09-23T18:42:23.695804+00:00",
+  "generated_at": "2026-09-24T18:43:32.994245+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
