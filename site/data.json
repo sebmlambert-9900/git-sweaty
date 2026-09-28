@@ -14939,6 +14939,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20334682223",
       "year": 2026
+    },
+    {
+      "date": "2026-09-28",
+      "hour": 6,
+      "name": "Full Body @ PERFIT",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20360227947",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-28",
+      "hour": 12,
+      "name": "12km - Easy run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20364453023",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28923,6 +28941,15 @@
           "distance": 31614.9,
           "elevation_gain": 188.0,
           "moving_time": 9073.0
+        },
+        "2026-09-28": {
+          "activity_ids": [
+            "20364453023"
+          ],
+          "count": 1,
+          "distance": 12036.8,
+          "elevation_gain": 73.2,
+          "moving_time": 3896.0
         }
       },
       "Walk": {
@@ -29584,6 +29611,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2977.0
+        },
+        "2026-09-28": {
+          "activity_ids": [
+            "20360227947"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2813.0
         }
       },
       "Yoga": {
@@ -29599,7 +29635,7 @@
       }
     }
   },
-  "generated_at": "2026-09-27T18:43:06.330942+00:00",
+  "generated_at": "2026-09-28T20:53:14.912137+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
