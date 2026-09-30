@@ -14957,6 +14957,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20364453023",
       "year": 2026
+    },
+    {
+      "date": "2026-09-29",
+      "hour": 6,
+      "name": "Full Body @ PERFIT",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20383815270",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-30",
+      "hour": 18,
+      "name": "PRC Taper Intervals @ Carrow Rd \u26bd\ufe0f",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20396975746",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28950,6 +28968,15 @@
           "distance": 12036.8,
           "elevation_gain": 73.2,
           "moving_time": 3896.0
+        },
+        "2026-09-30": {
+          "activity_ids": [
+            "20396975746"
+          ],
+          "count": 1,
+          "distance": 9825.7,
+          "elevation_gain": 22.2,
+          "moving_time": 3284.0
         }
       },
       "Walk": {
@@ -29620,6 +29647,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2813.0
+        },
+        "2026-09-29": {
+          "activity_ids": [
+            "20383815270"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2725.0
         }
       },
       "Yoga": {
@@ -29635,7 +29671,7 @@
       }
     }
   },
-  "generated_at": "2026-09-29T19:41:46.934409+00:00",
+  "generated_at": "2026-09-30T19:41:44.751022+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",

@@ -21604,5 +21604,31 @@
     "start_date_local": "2026-09-28T12:36:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20383815270",
+    "moving_time": 2725.0,
+    "name": "Full Body @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-29T06:03:36Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 9825.7,
+    "elevation_gain": 22.2,
+    "id": "20396975746",
+    "moving_time": 3284.0,
+    "name": "PRC Taper Intervals @ Carrow Rd \u26bd\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-30T18:21:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
