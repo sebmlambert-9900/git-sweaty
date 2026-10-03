@@ -21643,5 +21643,18 @@
     "start_date_local": "2026-10-02T05:50:48Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 23300.3,
+    "elevation_gain": 50.4,
+    "id": "20430628697",
+    "moving_time": 7008.0,
+    "name": "23km Race Practice Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-03T09:16:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
