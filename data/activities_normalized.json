@@ -21734,5 +21734,18 @@
     "start_date_local": "2026-10-09T05:59:27Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 14041.7,
+    "elevation_gain": 42.0,
+    "id": "20523900474",
+    "moving_time": 3962.0,
+    "name": "14km - Final Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-10T08:02:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
