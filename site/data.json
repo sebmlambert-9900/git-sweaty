@@ -15056,6 +15056,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20523900474",
       "year": 2026
+    },
+    {
+      "date": "2026-10-11",
+      "hour": 7,
+      "name": "Hyrox Sundays @ PERFIT",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "url": "https://www.strava.com/activities/20537610804",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27904,6 +27913,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2409.0
+        },
+        "2026-10-11": {
+          "activity_ids": [
+            "20537610804"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1572.0
         }
       },
       "Hike": {
@@ -29833,7 +29851,7 @@
       }
     }
   },
-  "generated_at": "2026-10-10T18:59:55.022663+00:00",
+  "generated_at": "2026-10-11T19:15:09.371484+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
