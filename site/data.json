@@ -15083,6 +15083,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20564099349",
       "year": 2026
+    },
+    {
+      "date": "2026-10-14",
+      "hour": 18,
+      "name": "Taper Two Miler",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20586002871",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29157,6 +29166,15 @@
           "distance": 14041.7,
           "elevation_gain": 42.0,
           "moving_time": 3962.0
+        },
+        "2026-10-14": {
+          "activity_ids": [
+            "20586002871"
+          ],
+          "count": 1,
+          "distance": 8250.3,
+          "elevation_gain": 30.6,
+          "moving_time": 2448.0
         }
       },
       "Walk": {
@@ -29887,7 +29905,7 @@
       }
     }
   },
-  "generated_at": "2026-10-13T20:24:21.963618+00:00",
+  "generated_at": "2026-10-14T19:00:10.989739+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
