@@ -21799,5 +21799,18 @@
     "start_date_local": "2026-10-14T18:42:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 42804.3,
+    "elevation_gain": 86.2,
+    "id": "20636567309",
+    "moving_time": 11740.0,
+    "name": "Amsterdam Marathon 2026 \ud83c\uddf3\ud83c\uddf1 \ud83c\udfc1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-18T09:05:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

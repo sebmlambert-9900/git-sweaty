@@ -15092,6 +15092,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20586002871",
       "year": 2026
+    },
+    {
+      "date": "2026-10-18",
+      "hour": 9,
+      "name": "Amsterdam Marathon 2026 \ud83c\uddf3\ud83c\uddf1 \ud83c\udfc1",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20636567309",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29175,6 +29184,15 @@
           "distance": 8250.3,
           "elevation_gain": 30.6,
           "moving_time": 2448.0
+        },
+        "2026-10-18": {
+          "activity_ids": [
+            "20636567309"
+          ],
+          "count": 1,
+          "distance": 42804.3,
+          "elevation_gain": 86.2,
+          "moving_time": 11740.0
         }
       },
       "Walk": {
@@ -29905,7 +29923,7 @@
       }
     }
   },
-  "generated_at": "2026-10-17T17:34:35.505659+00:00",
+  "generated_at": "2026-10-18T17:37:33.598547+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
