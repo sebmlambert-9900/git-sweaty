@@ -21812,5 +21812,18 @@
     "start_date_local": "2026-10-18T09:05:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20697082976",
+    "moving_time": 2709.0,
+    "name": "Friday Fitness @ PERFIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-10-23T05:49:19Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
