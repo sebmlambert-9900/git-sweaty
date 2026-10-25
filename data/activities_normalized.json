@@ -21825,5 +21825,18 @@
     "start_date_local": "2026-10-23T05:49:19Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 11655.4,
+    "elevation_gain": 91.6,
+    "id": "20721673114",
+    "moving_time": 3407.0,
+    "name": "Hyrox Doubles sim @ PERFIT",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-25T07:14:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
