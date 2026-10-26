@@ -21838,5 +21838,31 @@
     "start_date_local": "2026-10-25T07:14:59Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20733870942",
+    "moving_time": 2579.0,
+    "name": "Full body @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-26T06:09:08Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 5132.5,
+    "elevation_gain": 20.8,
+    "id": "20741180579",
+    "moving_time": 1889.0,
+    "name": "Easy 30",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-26T18:20:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
