@@ -21877,5 +21877,18 @@
     "start_date_local": "2026-10-27T06:00:10Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20756448049",
+    "moving_time": 2667.0,
+    "name": "Compete @ PERFIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-10-27T19:08:52Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
