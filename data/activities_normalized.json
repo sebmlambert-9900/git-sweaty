@@ -21916,5 +21916,18 @@
     "start_date_local": "2026-10-30T06:02:39Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 15082.7,
+    "elevation_gain": 83.6,
+    "id": "20802039149",
+    "moving_time": 4703.0,
+    "name": "15km Riverside and City loop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-31T09:50:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
