@@ -15182,6 +15182,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20802039149",
       "year": 2026
+    },
+    {
+      "date": "2026-11-01",
+      "hour": 8,
+      "name": "Halloween Games @ PERFIT \ud83c\udf83 \ud83d\udc7b",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "url": "https://www.strava.com/activities/20815566645",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28066,6 +28075,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2420.0
+        },
+        "2026-11-01": {
+          "activity_ids": [
+            "20815566645"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 6316.0
         }
       },
       "Hike": {
@@ -30085,7 +30103,7 @@
       }
     }
   },
-  "generated_at": "2026-10-31T18:53:39.790514+00:00",
+  "generated_at": "2026-11-01T19:15:28.622480+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",

@@ -21929,5 +21929,18 @@
     "start_date_local": "2026-10-31T09:50:31Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20815566645",
+    "moving_time": 6316.0,
+    "name": "Halloween Games @ PERFIT \ud83c\udf83 \ud83d\udc7b",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-11-01T08:08:47Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
