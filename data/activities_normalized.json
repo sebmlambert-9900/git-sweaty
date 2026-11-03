@@ -21942,5 +21942,31 @@
     "start_date_local": "2026-11-01T08:08:47Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 6607.1,
+    "elevation_gain": 31.6,
+    "id": "20838793015",
+    "moving_time": 2134.0,
+    "name": "35 mins @ Thames Riverwalk",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-03T06:38:58Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20847784518",
+    "moving_time": 2909.0,
+    "name": "Compete @ PERFIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-11-03T19:12:07Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
