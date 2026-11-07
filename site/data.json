@@ -15218,6 +15218,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20861979454",
       "year": 2026
+    },
+    {
+      "date": "2026-11-06",
+      "hour": 19,
+      "name": "Men\u2019s session @ PERFIT",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "url": "https://www.strava.com/activities/20886807206",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28120,6 +28129,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2909.0
+        },
+        "2026-11-06": {
+          "activity_ids": [
+            "20886807206"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3184.0
         }
       },
       "Hike": {
@@ -30157,7 +30175,7 @@
       }
     }
   },
-  "generated_at": "2026-11-06T20:38:33.822108+00:00",
+  "generated_at": "2026-11-07T19:07:11.449505+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
