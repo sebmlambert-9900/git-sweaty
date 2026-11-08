@@ -21994,5 +21994,18 @@
     "start_date_local": "2026-11-06T19:13:22Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20905431911",
+    "moving_time": 2969.0,
+    "name": "Hyrox Sundays @ PERFIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-11-08T07:46:14Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
