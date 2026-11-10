@@ -15245,6 +15245,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20917136675",
       "year": 2026
+    },
+    {
+      "date": "2026-11-10",
+      "hour": 8,
+      "name": "Center Parcs 8km",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20930229746",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29454,6 +29463,15 @@
           "distance": 9668.4,
           "elevation_gain": 42.4,
           "moving_time": 2526.0
+        },
+        "2026-11-10": {
+          "activity_ids": [
+            "20930229746"
+          ],
+          "count": 1,
+          "distance": 9167.2,
+          "elevation_gain": 38.0,
+          "moving_time": 3182.0
         }
       },
       "Walk": {
@@ -30211,7 +30229,7 @@
       }
     }
   },
-  "generated_at": "2026-11-09T23:37:48.431344+00:00",
+  "generated_at": "2026-11-10T21:04:02.598647+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
