@@ -22033,5 +22033,31 @@
     "start_date_local": "2026-11-10T08:07:49Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-12",
+    "distance": 3272.5,
+    "elevation_gain": 15.8,
+    "id": "20957159194",
+    "moving_time": 963.0,
+    "name": "PRC Intervals @ Centre Parcs 1/2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-12T08:11:42Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-12",
+    "distance": 6072.1,
+    "elevation_gain": 22.8,
+    "id": "20957159250",
+    "moving_time": 1719.0,
+    "name": "PRC Intervals @ Centre Parcs 2/2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-12T08:30:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -15254,6 +15254,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20930229746",
       "year": 2026
+    },
+    {
+      "date": "2026-11-12",
+      "hour": 8,
+      "name": "PRC Intervals @ Centre Parcs 1/2",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20957159194",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-12",
+      "hour": 8,
+      "name": "PRC Intervals @ Centre Parcs 2/2",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20957159250",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29472,6 +29490,16 @@
           "distance": 9167.2,
           "elevation_gain": 38.0,
           "moving_time": 3182.0
+        },
+        "2026-11-12": {
+          "activity_ids": [
+            "20957159194",
+            "20957159250"
+          ],
+          "count": 2,
+          "distance": 9344.6,
+          "elevation_gain": 38.6,
+          "moving_time": 2682.0
         }
       },
       "Walk": {
@@ -30229,7 +30257,7 @@
       }
     }
   },
-  "generated_at": "2026-11-11T21:37:44.593165+00:00",
+  "generated_at": "2026-11-12T21:38:03.982729+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
