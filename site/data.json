@@ -15281,6 +15281,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20974719681",
       "year": 2026
+    },
+    {
+      "date": "2026-11-14",
+      "hour": 9,
+      "name": "14km City loop \ud83e\udd76",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20981998815",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29509,6 +29518,15 @@
           "distance": 9344.6,
           "elevation_gain": 38.6,
           "moving_time": 2682.0
+        },
+        "2026-11-14": {
+          "activity_ids": [
+            "20981998815"
+          ],
+          "count": 1,
+          "distance": 14084.0,
+          "elevation_gain": 87.4,
+          "moving_time": 4652.0
         }
       },
       "Walk": {
@@ -30275,7 +30293,7 @@
       }
     }
   },
-  "generated_at": "2026-11-13T21:02:16.468015+00:00",
+  "generated_at": "2026-11-14T19:32:13.751072+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
