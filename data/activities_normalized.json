@@ -22098,5 +22098,31 @@
     "start_date_local": "2026-11-15T07:43:21Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21005352476",
+    "moving_time": 1661.0,
+    "name": "Full Body @ PERFIT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-16T06:27:13Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-16",
+    "distance": 8204.8,
+    "elevation_gain": 48.6,
+    "id": "21012773194",
+    "moving_time": 2682.0,
+    "name": "8km - Riverside & Cathedral loop \ud83e\udd76",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-16T18:29:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

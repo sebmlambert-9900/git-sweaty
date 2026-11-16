@@ -15299,6 +15299,24 @@
       "type": "HighIntensityIntervalTraining",
       "url": "https://www.strava.com/activities/20993440263",
       "year": 2026
+    },
+    {
+      "date": "2026-11-16",
+      "hour": 6,
+      "name": "Full Body @ PERFIT",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/21005352476",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-16",
+      "hour": 18,
+      "name": "8km - Riverside & Cathedral loop \ud83e\udd76",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21012773194",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29545,6 +29563,15 @@
           "distance": 14084.0,
           "elevation_gain": 87.4,
           "moving_time": 4652.0
+        },
+        "2026-11-16": {
+          "activity_ids": [
+            "21012773194"
+          ],
+          "count": 1,
+          "distance": 8204.8,
+          "elevation_gain": 48.6,
+          "moving_time": 2682.0
         }
       },
       "Walk": {
@@ -30296,6 +30323,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2861.0
+        },
+        "2026-11-16": {
+          "activity_ids": [
+            "21005352476"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1661.0
         }
       },
       "Yoga": {
@@ -30311,7 +30347,7 @@
       }
     }
   },
-  "generated_at": "2026-11-15T20:00:31.036779+00:00",
+  "generated_at": "2026-11-16T23:33:27.687991+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
