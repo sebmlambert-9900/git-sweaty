@@ -22124,5 +22124,18 @@
     "start_date_local": "2026-11-16T18:29:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21026015863",
+    "moving_time": 3469.0,
+    "name": "Compete @ PERFIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-11-17T18:59:11Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
