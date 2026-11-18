@@ -22137,5 +22137,18 @@
     "start_date_local": "2026-11-17T18:59:11Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-18",
+    "distance": 8839.7,
+    "elevation_gain": 37.8,
+    "id": "21039366804",
+    "moving_time": 2321.0,
+    "name": "PRC Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-18T19:06:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

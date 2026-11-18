@@ -15326,6 +15326,15 @@
       "type": "HighIntensityIntervalTraining",
       "url": "https://www.strava.com/activities/21026015863",
       "year": 2026
+    },
+    {
+      "date": "2026-11-18",
+      "hour": 19,
+      "name": "PRC Intervals",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21039366804",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29590,6 +29599,15 @@
           "distance": 8204.8,
           "elevation_gain": 48.6,
           "moving_time": 2682.0
+        },
+        "2026-11-18": {
+          "activity_ids": [
+            "21039366804"
+          ],
+          "count": 1,
+          "distance": 8839.7,
+          "elevation_gain": 37.8,
+          "moving_time": 2321.0
         }
       },
       "Walk": {
@@ -30365,7 +30383,7 @@
       }
     }
   },
-  "generated_at": "2026-11-17T22:42:34.149687+00:00",
+  "generated_at": "2026-11-18T22:24:18.973434+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
