@@ -22150,5 +22150,18 @@
     "start_date_local": "2026-11-18T19:06:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 8218.1,
+    "elevation_gain": 54.0,
+    "id": "21068600952",
+    "moving_time": 2828.0,
+    "name": "8km Cathedral loop \u2744\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-21T09:49:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
