@@ -22163,5 +22163,18 @@
     "start_date_local": "2026-11-21T09:49:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-22",
+    "distance": 6994.9,
+    "elevation_gain": 36.0,
+    "id": "21080891273",
+    "moving_time": 2262.0,
+    "name": "Hyrox Sim @ PERFIT",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-22T08:31:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
