@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:40:39.192984+00:00",
+  "generated_at": "2026-11-25T23:23:45.709145+00:00",
   "years": {
     "2016": {
       "Run": {
@@ -12967,6 +12967,17 @@
           "moving_time": 8888.0
         }
       },
+      "HybridRacing": {
+        "2026-11-22": {
+          "activity_ids": [
+            "21080891273"
+          ],
+          "count": 1,
+          "distance": 6998.3,
+          "elevation_gain": 36.0,
+          "moving_time": 2594.0
+        }
+      },
       "Padel": {
         "2026-05-16": {
           "activity_ids": [
@@ -14281,14 +14292,14 @@
           "elevation_gain": 54.0,
           "moving_time": 2828.0
         },
-        "2026-11-22": {
+        "2026-11-25": {
           "activity_ids": [
-            "21080891273"
+            "21124474375"
           ],
           "count": 1,
-          "distance": 6994.9,
-          "elevation_gain": 36.0,
-          "moving_time": 2262.0
+          "distance": 8618.3,
+          "elevation_gain": 38.0,
+          "moving_time": 2333.0
         }
       },
       "Walk": {

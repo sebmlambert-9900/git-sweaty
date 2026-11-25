@@ -15349,8 +15349,8 @@
       "date": "2026-11-22",
       "hour": 8,
       "name": "Hyrox Sim @ PERFIT",
-      "subtype": "Run",
-      "type": "Run",
+      "subtype": "HybridRacing",
+      "type": "HybridRacing",
       "url": "https://www.strava.com/activities/21080891273",
       "year": 2026
     },
@@ -15370,6 +15370,15 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/21103980689",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-25",
+      "hour": 19,
+      "name": "PRC Intervals",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21124474375",
       "year": 2026
     }
   ],
@@ -28340,6 +28349,17 @@
           "moving_time": 8888.0
         }
       },
+      "HybridRacing": {
+        "2026-11-22": {
+          "activity_ids": [
+            "21080891273"
+          ],
+          "count": 1,
+          "distance": 6998.3,
+          "elevation_gain": 36.0,
+          "moving_time": 2594.0
+        }
+      },
       "Padel": {
         "2026-05-16": {
           "activity_ids": [
@@ -29654,14 +29674,14 @@
           "elevation_gain": 54.0,
           "moving_time": 2828.0
         },
-        "2026-11-22": {
+        "2026-11-25": {
           "activity_ids": [
-            "21080891273"
+            "21124474375"
           ],
           "count": 1,
-          "distance": 6994.9,
-          "elevation_gain": 36.0,
-          "moving_time": 2262.0
+          "distance": 8618.3,
+          "elevation_gain": 38.0,
+          "moving_time": 2333.0
         }
       },
       "Walk": {
@@ -30455,7 +30475,7 @@
       }
     }
   },
-  "generated_at": "2026-11-24T23:40:39.216808+00:00",
+  "generated_at": "2026-11-25T23:23:45.732918+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17961122",
   "repo": "sebmlambert-9900/git-sweaty",
@@ -30469,6 +30489,10 @@
     "Hike": {
       "accent": "#d6ff6b",
       "label": "Hike"
+    },
+    "HybridRacing": {
+      "accent": "#ffbe0b",
+      "label": "Hybrid Racing"
     },
     "Padel": {
       "accent": "#ffbe0b",
@@ -30513,7 +30537,8 @@
     "WeightTraining",
     "Workout",
     "Yoga",
-    "Padel"
+    "Padel",
+    "HybridRacing"
   ],
   "units": {
     "distance": "km",

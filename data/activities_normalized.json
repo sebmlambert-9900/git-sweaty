@@ -22166,15 +22166,15 @@
   },
   {
     "date": "2026-11-22",
-    "distance": 6994.9,
+    "distance": 6998.3,
     "elevation_gain": 36.0,
     "id": "21080891273",
-    "moving_time": 2262.0,
+    "moving_time": 2594.0,
     "name": "Hyrox Sim @ PERFIT",
-    "raw_activity_type": "Run",
-    "raw_type": "Run",
+    "raw_activity_type": "Workout",
+    "raw_type": "HybridRacing",
     "start_date_local": "2026-11-22T08:31:20Z",
-    "type": "Run",
+    "type": "HybridRacing",
     "year": 2026
   },
   {
@@ -22201,6 +22201,19 @@
     "raw_type": "WeightTraining",
     "start_date_local": "2026-11-24T06:04:33Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-25",
+    "distance": 8618.3,
+    "elevation_gain": 38.0,
+    "id": "21124474375",
+    "moving_time": 2333.0,
+    "name": "PRC Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-25T19:09:25Z",
+    "type": "Run",
     "year": 2026
   }
 ]
